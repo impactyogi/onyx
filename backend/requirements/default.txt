@@ -8,7 +8,7 @@ boto3==1.36.23
 celery==5.5.0b4
 chardet==5.2.0
 dask==2023.8.1
-ddtrace==2.6.5
+ddtrace==4.15.6
 discord.py==2.4.0
 distributed==2023.8.1
 fastapi==0.109.2
