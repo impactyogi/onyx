@@ -92,7 +92,7 @@
     "yup": "^1.4.0"
   },
   "devDependencies": {
-    "@chromatic-com/playwright": "^0.10.2",
+    "@chromatic-com/playwright": "^1.1.0",
     "@tailwindcss/typography": "^0.5.10",
     "@types/chrome": "^0.0.287",
     "@types/jest": "^29.5.14",
